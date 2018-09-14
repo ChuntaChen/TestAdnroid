@@ -1,0 +1,13 @@
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\bin\Release\System.Management.Automation.dll
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\obj\Release\DriverVersionComparison.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\obj\Release\DriverVersionComparison.csproj.CopyComplete
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\obj\Release\DriverVersionComparison.csprojAssemblyReference.cache
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\bin\Release\ROG Version Dump Tool - V1.1.2.exe.config
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\bin\Release\ROG Version Dump Tool - V1.1.2.exe.manifest
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\bin\Release\ROG Version Dump Tool - V1.1.2.application
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\bin\Release\ROG Version Dump Tool - V1.1.2.exe
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\bin\Release\ROG Version Dump Tool - V1.1.2.pdb
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\obj\Release\ROG Version Dump Tool - V1.1.2.exe.manifest
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\obj\Release\ROG Version Dump Tool - V1.1.2.application
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\obj\Release\ROG Version Dump Tool - V1.1.2.exe
+C:\Users\ROG\Desktop\DriverVersionComparison\DriverVersionComparison\obj\Release\ROG Version Dump Tool - V1.1.2.pdb

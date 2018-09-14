@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FileTable>
+  <File>
+    <Name>INFUpdate</Name>
+    <vendor>Intel</vendor>
+    <version>10.1.17541.8066</version>
+    <itemInDevice>Intel(R) Chipset Device Software</itemInDevice>
+  </File>
+    <File>
+		<Name>Serial IO</Name>
+		<vendor>Intel</vendor>
+		<version>30.100.1727.1</version>
+		<itemInDevice>Intel(R) Serial IO</itemInDevice>
+	</File>
+    <File>
+		<Name>MEI_Consumer</Name>
+		<vendor>Intel</vendor>
+		<version>1803.12.0.1093</version>
+		<itemInDevice>Intel(R) Management Engine Interface</itemInDevice>
+	</File>
+    <File>
+		<Name>Rapid Storage</Name>
+		<vendor>Intel</vendor>
+		<version>16.0.1.1018</version>
+		<itemInDevice>Intel(R) Rapid Storage Technology</itemInDevice>
+  </File>
+    <File>
+	<Name>DPTF</Name>
+		<vendor>Intel</vendor>
+		<version>8.4.10500.5526</version>
+		<itemInDevice>Intel(R) Dynamic Platform and Thermal Framework Manager</itemInDevice>
+	</File>
+    <File>
+		<Name>Graphic</Name>
+		<vendor>NVIDIA</vendor>
+		<version>23.21.13.8873</version>
+		<itemInDevice>NVIDIA GeForce GTX 1050 Ti</itemInDevice>
+	</File>
+    <File>
+		<Name>Graphic</Name>
+		<vendor>Intel</vendor>
+		<version>23.20.16.5018</version>
+		<itemInDevice>Intel(R) UHD Graphics 630</itemInDevice>
+	</File>
+    <File>
+		<Name>Precision TouchPad</Name>
+		<vendor>ASUS</vendor>
+		<version>11.0.25</version>
+		<itemInDevice>ASUS PTP Driver</itemInDevice>
+	</File>
+    <File>
+		<Name>Audio</Name>
+		<vendor>Realtek</vendor>
+		<version>6.0.1.8443</version>
+		<itemInDevice>Realtek High Definition Audio</itemInDevice>
+	</File>
+    <File>
+		<Name>LAN</Name>
+		<vendor>Realtek</vendor>
+		<version>10.23.1003.2017</version>
+		<itemInDevice>Realtek PCIe GBE Family Controller</itemInDevice>
+	</File>
+    <File>
+		<Name>WirelessLan</Name>
+		<vendor>Realtek</vendor>
+		<version>2023.76.0221.2018</version>
+		<itemInDevice></itemInDevice>
+	</File>
+    <File>
+		<Name>WirelessLan</Name>
+		<vendor>Intel</vendor>
+		<version>20.50.3.3</version>
+		<itemInDevice>Intel(R) Wireless-AC 9560</itemInDevice>
+	</File>
+    <File>
+		<Name>Bluetooth</Name>
+		<vendor>Realtek</vendor>
+		<version>1.5.1010.3</version>
+		<itemInDevice></itemInDevice>
+	</File>
+    <File>
+		<Name>Bluetooth</Name>
+		<vendor>Intel</vendor>
+		<version>20.50.1.2</version>
+		<itemInDevice>Intel(R) Wireless Bluetooth(R)</itemInDevice>
+	</File>
+    <File>
+		<Name>ASUS Keyboard hotkeys Driver</Name>
+		<vendor>ASUS</vendor>
+		<version>2.0.2.0</version>
+		<itemInDevice>ATK Package (ASUS Keyboard Hotkeys) Device</itemInDevice>
+	</File>
+</FileTable>

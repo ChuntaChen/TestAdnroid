@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="DriverVersionComparison.exe" version="1.0.0.0" publicKeyToken="6d81db7233682a89" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="asus-rog.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DriverVersionComparison" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DriverVersionComparison.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DriverVersionComparison.exe" size="295384">
+      <assemblyIdentity name="DriverVersionComparison" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3QBablyxl2Mgg/T1mhIZi9qmvyIrkiPK9Px0MqA0xK8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Management.Automation.dll" size="3010560">
+      <assemblyIdentity name="System.Management.Automation" version="1.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>HG3Xk1oVwCb2nG9ofyG4PQbGn6CJ7SaxD+Kgjmj+Gss=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="asus-rog.ico" size="270398">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4wC7zRtO6k/L/aCHqFlVvxbpdqW2hnIAnEZGEojyz0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DriverVersionComparison.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-VT7E1D14\ROG" issuerKeyHash="f8f402e8df541d15f493b45c281cdab777709523" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>QbcSG6qevWUj9//bj28DJaDrNoV2AgM31xxIQIqAcl4=</DigestValue></Reference></SignedInfo><SignatureValue>LG21pIt1OrBbpdTLtLfcTTqlUS7drV9QvZ3JX09Hr1F8gKg4/rWmhNt6h3jcQ+NX7NJ3jbAJDVoPsaVMZa0u/8eGHOXb7SIxhzNJw8Z+D8m+BM6KVDs8bTX7GMzEF/5mVxYkLjjyRQy+vXhTaxiAry+R4YfI6qbP0Zz5HnYSV6g=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tqvIAtEPddDdZ0Hi7iPZpcC4SDmrjSvshKid3R3HGZ0Od7RHQeOSX0DXyPmEtMlZ0sf5hMNNu/wl+qf1OB9bRQVmEVgzB/dI6sAbC15hNB48AMPJ6PAESH6c+negVva/W7AA+TQBhD+JlwdpehH/6aEHE85r2Ucl7+8ELiveqSU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5e72808a40481cd7370302768536eba025036f8fdbfff72365bd9eaa1b12b741" Description="" Url=""><as:assemblyIdentity name="DriverVersionComparison.exe" version="1.0.0.0" publicKeyToken="6d81db7233682a89" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-VT7E1D14\ROG</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>KsSLKZpq1O6olXIsQcpYvnBM8o64PzocdVueh3Qi/qY=</DigestValue></Reference></SignedInfo><SignatureValue>VmLTGedSEfNiAlQ+8sKQeIZD4cijVRZESVns2b8rVCL/dS9T2nC+gWsHovI6Cn0l2rGGSFsPH4RaMV58CEanm++VrZiFdeujUafzoOLKt0MCu7hItLG6kAfTAJLlyBILhK5ydH1kNlL9rMy19guSe/X8AlJuuzH8gzxHnJclXv8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tqvIAtEPddDdZ0Hi7iPZpcC4SDmrjSvshKid3R3HGZ0Od7RHQeOSX0DXyPmEtMlZ0sf5hMNNu/wl+qf1OB9bRQVmEVgzB/dI6sAbC15hNB48AMPJ6PAESH6c+negVva/W7AA+TQBhD+JlwdpehH/6aEHE85r2Ucl7+8ELiveqSU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQUXBA3UFrIaVOVCBBR/FM8TANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYATABBAFAAVABPAFAALQBWAFQANwBFADEARAAxADQAXABSAE8ARzAeFw0xODA3MjIxNDExMDZaFw0xOTA3MjIyMDExMDZaMDExLzAtBgNVBAMeJgBMAEEAUABUAE8AUAAtAFYAVAA3AEUAMQBEADEANABcAFIATwBHMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2q8gC0Q910N1nQeLuI9mlwLhIOauNK+yEqJ3dHccZnQ53tEdB45JfQNfI+YS0yVnSx/mEw027/CX6p/U4H1tFBWYRWDMH90jqwBsLXmE0HjwAw8no8ARIfpz6d6BW9r9bsAD5NAGEP4mXB2l6Ef/poQcTzmvZRyXv7wQuK96pJQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAALTFDfb6z/ajJVHgH6v/1fwo1yTy1dMJ8yi+TneLmpvoxLj/Ab3KSAH7gKLP9uGZVJlEk4HP0LohrXWJWVKMFGLoUD5L+0AbIb8Eqpieh3Xe6nVfqc/Im7xFjHONBgkYWoI2toeQVVtbdyNcVkA5gJJqRO+2TitMEpFbGCnU4Zq</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

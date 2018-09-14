@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Files>
+  <File Name="Bluetooth">
+    <Vendor Name="Realtek Semiconductor Corp.">
+      <driverProviderName>Microsoft</driverProviderName>
+      <version>10.0.17134.1</version>
+      <driverDate>20060621</driverDate>
+      <itemInDevice>Generic Bluetooth Adapter</itemInDevice>
+      <vendorHardwraeID>VID_13D3</vendorHardwraeID>
+    </Vendor>
+    <Vendor Name="Intel">
+      <driverProviderName>Microsoft</driverProviderName>
+      <version>10.0.17134.1</version>
+      <driverDate>20060621</driverDate>
+      <itemInDevice>Generic Bluetooth Adapter</itemInDevice>
+      <vendorHardwraeID>VID_8087</vendorHardwraeID>
+    </Vendor>
+  </File>
+	  <File Name="WirelessLan">
+      <Vendor Name="Realtek Semiconductor Corp.">
+        <driverProviderName>Microsoft</driverProviderName>
+        <version>2023.43.914.2016</version>
+        <driverDate>20161014</driverDate>
+        <itemInDevice>Realtek 8822BE Wireless LAN 802.11ac PCI-E NIC</itemInDevice>
+        <vendorHardwraeID>VEN_10EC</vendorHardwraeID>
+      </Vendor>
+	  </File>
+	  <File Name="LAN">
+      <Vendor Name="Realtek Semiconductor Corp.">
+        <driverProviderName>Microsoft</driverProviderName>
+        <version>9.1.406.2015</version>
+        <driverDate>20150406</driverDate>
+        <itemInDevice>Realtek PCIe GBE Family Controller</itemInDevice>
+        <vendorHardwraeID>VEN_10EC</vendorHardwraeID>
+      </Vendor>
+	</File>
+  <File Name="Graphic">
+    <Vendor Name="Intel">
+      <driverProviderName>Microsoft</driverProviderName>
+      <version>10.0.17134.1</version>
+      <driverDate>20060621</driverDate>
+      <itemInDevice>Microsoft Basic Display Adapter</itemInDevice>
+      <vendorHardwraeID>VEN_8086</vendorHardwraeID>
+    </Vendor>
+  </File>
+</Files>

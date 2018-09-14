@@ -1,0 +1,152 @@
+Driver Name                                                                     Version              Build Date  Vendor
+Local Print Queue                                                               10.0.17134.1         20060621    Microsoft
+Local Print Queue                                                               10.0.17134.1         20060621    Microsoft
+Local Print Queue                                                               10.0.17134.1         20060621    Microsoft
+Local Print Queue                                                               10.0.17134.1         20060621    Microsoft
+Local Print Queue                                                               10.0.17134.1         20060621    Microsoft
+WAN Miniport (Network Monitor)                                                  10.0.17134.1         20060621    Microsoft
+WAN Miniport (IPv6)                                                             10.0.17134.1         20060621    Microsoft
+WAN Miniport (IP)                                                               10.0.17134.1         20060621    Microsoft
+WAN Miniport (PPPOE)                                                            10.0.17134.1         20060621    Microsoft
+WAN Miniport (PPTP)                                                             10.0.17134.1         20060621    Microsoft
+WAN Miniport (L2TP)                                                             10.0.17134.1         20060621    Microsoft
+WAN Miniport (IKEv2)                                                            10.0.17134.1         20060621    Microsoft
+WAN Miniport (SSTP)                                                             10.0.17134.1         20060621    Microsoft
+Remote Desktop Device Redirector Bus                                            10.0.17134.1         20060621    Microsoft
+Plug and Play Software Device Enumerator                                        10.0.17134.1         20180410    Microsoft
+Microsoft System Management BIOS Driver                                         10.0.17134.1         20060621    Microsoft
+NDIS Virtual Network Adapter Enumerator                                         10.0.17134.1         20060621    Microsoft
+NVVHCI Enumerator                                                               2.2.2151.6378        20161227    NVIDIA
+NVIDIA Virtual Audio Device (Wave Extensible) (WDM)                             3.80.1.0             20170412    NVIDIA
+Microsoft Basic Render Driver                                                   10.0.17134.1         20060621    Microsoft
+System Firmware                                                                 10.0.17134.1         20060621    Microsoft
+Microsoft UEFI-Compliant System                                                 10.0.17134.112       20060621    Microsoft
+ACPI Fixed Feature Button                                                       10.0.17134.1         20060621    Microsoft
+Intel(R) Dynamic Platform and Thermal Framework Manager                         8.2.11000.2996       20160810    Intel
+ACPI Thermal Zone                                                               10.0.17134.1         20060621    Microsoft
+HID-compliant wireless radio controls                                           10.0.17134.112       20060621    Microsoft
+ASUS Wireless Radio Control                                                     1.0.0.7              20170502    ASUS
+Microsoft Windows Management Interface for ACPI                                 10.0.17134.1         20060621    Microsoft
+Trusted Platform Module 2.0                                                     10.0.17134.1         20060621    Microsoft
+ACPI Power Button                                                               10.0.17134.1         20060621    Microsoft
+Intel(R) Power Engine Plug-in                                                   10.0.17134.1         20060621    Microsoft
+ACPI Sleep Button                                                               10.0.17134.1         20060621    Microsoft
+ACPI Processor Aggregator                                                       10.0.17134.1         20060621    Microsoft
+Intel Processor                                                                 10.0.17134.1         20090421    Microsoft
+Intel Processor                                                                 10.0.17134.1         20090421    Microsoft
+Intel Processor                                                                 10.0.17134.1         20090421    Microsoft
+Intel Processor                                                                 10.0.17134.1         20090421    Microsoft
+Microsoft Windows Management Interface for ACPI                                 10.0.17134.1         20060621    Microsoft
+Microsoft Windows Management Interface for ACPI                                 10.0.17134.1         20060621    Microsoft
+Motherboard resources                                                           10.0.17134.1         20060621    Microsoft
+Motherboard resources                                                           10.0.17134.1         20060621    Microsoft
+Motherboard resources                                                           10.0.17134.1         20060621    Microsoft
+Motherboard resources                                                           10.0.17134.1         20060621    Microsoft
+Intel(R) 100 Series/C230 Series Chipset Family SMBus - A123                     10.1.1.38            20161003    INTEL
+Audio Endpoint                                                                  10.0.17134.1         20180411    Microsoft
+Audio Endpoint                                                                  10.0.17134.1         20180411    Microsoft
+Realtek High Definition Audio                                                   6.0.1.8142           20170502    Realtek Semiconductor Corp.
+High Definition Audio Controller                                                10.0.17134.1         20180411    Microsoft
+Intel(R) 100 Series/C230 Series Chipset Family PMC - A121                       10.1.1.38            20161003    INTEL
+PC/AT Enhanced PS/2 Keyboard (101/102-Key)                                      10.0.17134.1         20060621    Microsoft
+Intel(R) Dynamic Platform and Thermal Framework Generic Participant             8.2.11000.2996       20160810    Intel
+Intel(R) Dynamic Platform and Thermal Framework Generic Participant             8.2.11000.2996       20160810    Intel
+Intel(R) Dynamic Platform and Thermal Framework Generic Participant             8.2.11000.2996       20160810    Intel
+Intel(R) Dynamic Platform and Thermal Framework Generic Participant             8.2.11000.2996       20160810    Intel
+Microsoft ACPI-Compliant Control Method Battery                                 10.0.17134.1         20060621    Microsoft
+ACPI Lid                                                                        10.0.17134.1         20060621    Microsoft
+Microsoft AC Adapter                                                            10.0.17134.1         20060621    Microsoft
+Microsoft ACPI-Compliant Embedded Controller                                    10.0.17134.1         20060621    Microsoft
+Motherboard resources                                                           10.0.17134.1         20060621    Microsoft
+System timer                                                                    10.0.17134.1         20060621    Microsoft
+System CMOS/real time clock                                                     10.0.17134.1         20060621    Microsoft
+Motherboard resources                                                           10.0.17134.1         20060621    Microsoft
+Motherboard resources                                                           10.0.17134.1         20060621    Microsoft
+Numeric data processor                                                          10.0.17134.1         20060621    Microsoft
+Programmable interrupt controller                                               10.0.17134.1         20060621    Microsoft
+High precision event timer                                                      10.0.17134.1         20060621    Microsoft
+Legacy device                                                                   10.0.17134.1         20060621    Microsoft
+Intel(R) 100 Series/C230 Series Chipset Family LPC Controller (HM175) - A152    10.1.1.38            20161003    INTEL
+USB Root Hub (USB 3.0)                                                          10.0.17134.112       20180608    Microsoft
+USB xHCI Compliant Host Controller                                              10.0.17134.1         20180410    Microsoft
+Intel(R) 100 Series/C230 Series Chipset Family PCI Express Root Port #5 - A114  10.1.1.38            20161003    INTEL
+Realtek PCIe GBE Family Controller                                              10.10.714.2016       20160714    Realtek
+Intel(R) 100 Series/C230 Series Chipset Family PCI Express Root Port #4 - A113  10.1.1.38            20161003    INTEL
+Microsoft Wi-Fi Direct Virtual Adapter                                          10.0.17134.1         20060621    Microsoft
+Microsoft Wi-Fi Direct Virtual Adapter                                          10.0.17134.1         20060621    Microsoft
+Qualcomm Atheros QCA9377 Wireless Network Adapter                               12.0.0.307           20170413    Qualcomm Atheros Communications Inc.
+Intel(R) 100 Series/C230 Series Chipset Family PCI Express Root Port #3 - A112  10.1.1.38            20161003    INTEL
+Intel(R) 100 Series/C230 Series Chipset Family PCI Express Root Port #1 - A110  10.1.1.38            20161003    INTEL
+Disk drive                                                                      10.0.17134.1         20060621    Microsoft
+Disk drive                                                                      10.0.17134.1         20060621    Microsoft
+Intel(R) 100 Series/C230 Chipset Family SATA AHCI Controller                    15.2.1.1028          20160926    Intel Corporation
+Intel(R) Management Engine Interface                                            11.6.0.1032          20160915    Intel
+Microsoft Input Configuration Device                                            10.0.17134.1         20060621    Microsoft
+ASUS Precision Touchpad                                                         11.0.0.13            20160815    ASUS
+HID-compliant mouse                                                             10.0.17134.1         20060621    Microsoft
+I2C HID Device                                                                  10.0.17134.1         20060621    Microsoft
+Intel(R) Serial IO I2C Host Controller - A161                                   30.100.1724.1        20170614    Intel Corporation
+Intel(R) Serial IO I2C Host Controller - A160                                   30.100.1724.1        20170614    Intel Corporation
+Intel(R) 100 Series/C230 Series Chipset Family Thermal subsystem - A131         10.1.1.38            19700101    INTEL
+Bluetooth Device (Personal Area Network)                                        10.0.17134.1         20060621    Microsoft
+Bluetooth Device                                                                10.0.17134.137       20060621    Microsoft
+Bluetooth Hands-Free                                                            10.0.17134.1         20180411    Microsoft
+Bluetooth Hands-Free Audio and Call Control HID Enumerator                      10.0.17134.1         20180410    Microsoft
+Microsoft Bluetooth Avrcp Transport Driver                                      10.0.17134.1         20180410    Microsoft
+Microsoft Bluetooth Avrcp Transport Driver                                      10.0.17134.1         20180410    Microsoft
+Bluetooth Stereo                                                                10.0.17134.1         20180411    Microsoft
+Microsoft Bluetooth Enumerator                                                  10.0.17134.137       20060621    Microsoft
+Bluetooth Device (RFCOMM Protocol TDI)                                          10.0.17134.1         20060621    Microsoft
+Microsoft Bluetooth LE Enumerator                                               10.0.17134.1         20060621    Microsoft
+Qualcomm Atheros Bluetooth 4.1                                                  10.0.0.303           20170322    Qualcomm Atheros Communications
+HID-compliant mouse                                                             10.0.17134.1         20060621    Microsoft
+USB Input Device                                                                10.0.17134.112       20060621    Microsoft
+HID-compliant consumer control device                                           10.0.17134.1         20060621    Microsoft
+HID-compliant vendor-defined device                                             10.0.17134.112       20060621    Microsoft
+USB Input Device                                                                10.0.17134.112       20060621    Microsoft
+HID Keyboard Device                                                             10.0.17134.1         20060621    Microsoft
+USB Input Device                                                                10.0.17134.112       20060621    Microsoft
+USB Composite Device                                                            10.0.17134.1         20060621    Microsoft
+USB Video Device                                                                10.0.17134.1         20060621    Microsoft
+USB Composite Device                                                            10.0.17134.1         20060621    Microsoft
+HID-compliant vendor-defined device                                             10.0.17134.112       20060621    Microsoft
+HID-compliant vendor-defined device                                             10.0.17134.112       20060621    Microsoft
+HID-compliant vendor-defined device                                             10.0.17134.112       20060621    Microsoft
+USB Input Device                                                                10.0.17134.112       20060621    Microsoft
+HID-compliant vendor-defined device                                             10.0.17134.112       20060621    Microsoft
+HID-compliant system controller                                                 10.0.17134.112       20060621    Microsoft
+HID-compliant consumer control device                                           10.0.17134.1         20060621    Microsoft
+HID-compliant mouse                                                             10.0.17134.1         20060621    Microsoft
+USB Input Device                                                                10.0.17134.112       20060621    Microsoft
+HID Keyboard Device                                                             10.0.17134.1         20060621    Microsoft
+Logitech USB Input Device                                                       1.10.78.0            20160909    Logitech
+USB Composite Device                                                            10.0.17134.1         20060621    Microsoft
+USB Root Hub (USB 3.0)                                                          10.0.17134.112       20180608    Microsoft
+USB xHCI Compliant Host Controller                                              10.0.17134.1         20180410    Microsoft
+Intel(R) Dynamic Platform and Thermal Framework Processor Participant           8.2.11000.2996       20160810    Intel
+Generic PnP Monitor                                                             10.0.17134.1         20060621    Microsoft
+Generic PnP Monitor                                                             10.0.17134.1         20060621    Microsoft
+NVIDIA GeForce GTX 1070                                                         22.21.13.8290        20170801    NVIDIA
+Intel(R) Xeon(R) E3 - 1200/1500 v5/6th Gen Intel(R) Core(TM) PCIe Controller (x16) - 190110.1.1.38            20161003    INTEL
+Intel(R) Xeon(R) E3 - 1200 v6/7th Gen Intel(R) Core(TM) Host Bridge/DRAM Registers - 591010.1.1.38            20161003    INTEL
+PCI Express Root Complex                                                        10.0.17134.1         20060621    Microsoft
+Microsoft ACPI-Compliant System                                                 10.0.17134.1         20060621    Microsoft
+ACPI x64-based PC                                                               10.0.17134.1         20060621    Microsoft
+Charge Arbitration Driver                                                       10.0.17134.1         20060621    Microsoft
+UMBus Enumerator                                                                10.0.17134.1         20060621    Microsoft
+Remote Desktop USB Hub                                                          10.0.17134.1         20060621    Microsoft
+UMBus Enumerator                                                                10.0.17134.1         20060621    Microsoft
+UMBus Enumerator                                                                10.0.17134.1         20060621    Microsoft
+UMBus Enumerator                                                                10.0.17134.1         20060621    Microsoft
+UMBus Root Bus Enumerator                                                       10.0.17134.1         20060621    Microsoft
+Microsoft Kernel Debug Network Adapter                                          10.0.17134.1         20060621    Microsoft
+Microsoft Storage Spaces Controller                                             10.0.17134.137       20060621    Microsoft
+Microsoft Virtual Drive Enumerator                                              10.0.17134.1         20060621    Microsoft
+Composite Bus Enumerator                                                        10.0.17134.1         20060621    Microsoft
+Microsoft Basic Display Driver                                                  10.0.17134.1         20060621    Microsoft
+Volume                                                                          10.0.17134.1         20060621    Microsoft
+Volume                                                                          10.0.17134.1         20060621    Microsoft
+Volume                                                                          10.0.17134.1         20060621    Microsoft
+Volume                                                                          10.0.17134.1         20060621    Microsoft
+Volume                                                                          10.0.17134.1         20060621    Microsoft
+Volume Manager                                                                  10.0.17134.137       20060621    Microsoft
